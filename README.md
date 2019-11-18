@@ -23,6 +23,8 @@ Here are a few examples we published:
 
 4. [Ticketing system integration – Alert update API](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Ticketing-system-integration-Alert-update-API/ba-p/352191)
 
+## Share your work
 We welcome you to share and contribute, check out the guide in the [CONTRIBUTING.md file](https://github.com/microsoft/MicrosoftDefenderATP-API-PowerShell/blob/master/CONTRIBUTING.md).
 
+## API documentation
 For more info on our available APIs - go to our [API documentation](https://docs.microsoft.com/en-gb/windows/security/threat-protection/microsoft-defender-atp/exposed-apis-list)
