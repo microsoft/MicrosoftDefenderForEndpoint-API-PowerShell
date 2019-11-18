@@ -15,6 +15,6 @@ This repository is a starting point for all MDATP users developers to share cont
 
 We welcome you to share and contribute, here are two examples we published:
 
-[Get Indicators of Attack (IoC) from MISP to MDATP](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-ATP-and-Malware-Information-Sharing-Platform/m-p/576648#M100) ([Code](https://github.com/microsoft/MicrosoftDefenderATP-API-Samples/tree/master/Samples) )
+[Get Indicators of Attack (IoC) from MISP to MDATP](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-ATP-and-Malware-Information-Sharing-Platform/m-p/576648#M100) ([Code](https://github.com/microsoft/MicrosoftDefenderATP-API-Samples/blob/master/Samples/Get-MISP-Hash.ps1))
 
 [MDATP "Hello World" - Pull alerts from MDATP using API](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/WDATP-API-Hello-World-or-using-a-simple-PowerShell-script-to/ba-p/326813)
