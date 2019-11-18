@@ -4,10 +4,10 @@ languages:
 - powershell
 products:
 - mdatp
-description: "MDATP Python automation - Automate machine isolation with Python script"
+description: "MDATP PowerShell API samples: alerts indicator indicators IOC MISP automate response isolate integration ticketing"
 ---
 
-# MDATP API samples
+# MDATP PowerShell API samples
 
 Welcome to MDATP API samples repository!
 This repository is a starting point for all MDATP users developers to share content and sample code in different languages that utilizes MDATP API to enhance and automate your security.
