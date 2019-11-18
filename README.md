@@ -23,3 +23,4 @@ We welcome you to share and contribute, here are two examples we published:
 
 [Ticketing system integration – Alert update API](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Ticketing-system-integration-Alert-update-API/ba-p/352191)
 
+Check out the [CONTRIBUTING.md file in this repo](https://github.com/microsoft/MicrosoftDefenderATP-API-Samples/blob/master/CONTRIBUTING.md) for a guide on how to contribute your work.
