@@ -1,14 +1,18 @@
+---
+page_type: sample
+languages:
+- powershell
+products:
+- mdatp
+description: "MDATP Python automation - Automate machine isolation with Python script"
+---
 
-# Contributing
+# MDATP API samples
+Welcome to MDATP API samples repository!
+This repository is a starting point for all MDATP users developers to share content and sample code in different languages that utilizes MDATP API to enhance and automate your security.
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+We welcome you to share and contribute, here are two examples we published (code inside):
+[Get Indicators of Attack (IoC) from MISP to MDATP](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/Microsoft-Defender-ATP-and-Malware-Information-Sharing-Platform/m-p/576648#M100)
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+[MDATP "Hello World" - Pull alerts from MDATP using API](https://techcommunity.microsoft.com/t5/Microsoft-Defender-ATP/WDATP-API-Hello-World-or-using-a-simple-PowerShell-script-to/ba-p/326813)
