@@ -7,10 +7,10 @@ products:
 description: "Repository for PowerShell scripts using MDATP public API"
 ---
 
-# MDATP PowerShell API samples
+# Microsoft Defender ATP PowerShell API samples
 
-Welcome to the repository for PowerShell scripts using MDATP public API!
-This repository is a starting point for all MDATP users to share content and sample code in different languages that utilizes MDATP API to enhance and automate your security.
+Welcome to the repository for PowerShell scripts using Microsoft Defender public API!
+This repository is a starting point for all Microsoft Defender's users to share content and sample PowerShell code that utilizes Microsoft Defender API to enhance and automate your security.
 
 
 Here are a few examples we published:
@@ -28,3 +28,9 @@ We welcome you to share and contribute, check out the guide in the [CONTRIBUTING
 
 ## API documentation
 For more info on our available APIs - go to our [API documentation](https://docs.microsoft.com/en-gb/windows/security/threat-protection/microsoft-defender-atp/exposed-apis-list)
+
+## Additional MDATP repositories
+We have more repositories for different use cases, we invite you to explore and contribute.
+* [Python scripts using Microsoft Defender ATP public API](https://github.com/microsoft/MicrosoftDefenderATP-API-Python)
+* [Microsoft Defender ATP Advanced Hunting (AH) sample queries](https://github.com/microsoft/WindowsDefenderATP-Hunting-Queries)
+* [PowerBI reports using Microsoft Defender ATP data](https://github.com/microsoft/MicrosoftDefenderATP-PowerBI)
