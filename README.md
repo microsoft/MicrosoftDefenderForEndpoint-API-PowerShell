@@ -9,8 +9,8 @@ description: "Repository for PowerShell scripts using MDATP public API"
 
 # MDATP PowerShell API samples
 
-Welcome to MDATP API samples repository!
-This repository is a starting point for all MDATP users developers to share content and sample code in different languages that utilizes MDATP API to enhance and automate your security.
+Welcome to the repository for PowerShell scripts using MDATP public API!
+This repository is a starting point for all MDATP users to share content and sample code in different languages that utilizes MDATP API to enhance and automate your security.
 
 
 Here are a few examples we published:
