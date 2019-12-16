@@ -4,7 +4,7 @@ languages:
 - powershell
 products:
 - mdatp
-description: "MDATP PowerShell API samples: alerts indicator indicators IOC MISP automate response isolate integration ticketing"
+description: "Repository for PowerShell scripts using MDATP public API"
 ---
 
 # MDATP PowerShell API samples
