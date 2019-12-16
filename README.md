@@ -32,5 +32,7 @@ For more info on our available APIs - go to our [API documentation](https://docs
 ## Additional Microsoft Defender ATP repositories
 We have more repositories for different use cases, we invite you to explore and contribute.
 * [Python scripts using Microsoft Defender ATP public API](https://github.com/microsoft/MicrosoftDefenderATP-API-Python)
+
 * [Microsoft Defender ATP Advanced Hunting (AH) sample queries](https://github.com/microsoft/WindowsDefenderATP-Hunting-Queries)
+
 * [PowerBI reports using Microsoft Defender ATP data](https://github.com/microsoft/MicrosoftDefenderATP-PowerBI)
